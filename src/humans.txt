@@ -4,12 +4,12 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-    <Ankan> -- <Product owner> -- <Facebook>
-    <Sumathi> -- <Scrum Master> -- <Facebook>
-    <Prerna> -- <Coder> -- <Facebook>
-    <Ankita> -- <DBA> -- <Facebook>
-    <Rukshad> -- <Tester> -- <Facebook>
-    <Sushobhan> -- <Ops> -- <Facebook>
+    <Ankan> -- <Product owner> -- <Indoor Nav>
+    <Sumathi> -- <Scrum Master> -- <Indoor Nav>
+    <Prerna> -- <Coder> -- <Indoor Nav>
+    <Ankita> -- <DBA> -- <Indoor Nav>
+    <Rukshad> -- <Tester> -- <Indoor Nav>
+    <Sushobhan> -- <Ops> -- <Indoor Nav>
 
 # THANKS
 
