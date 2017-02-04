@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     <Ankan> -- <Product owner> -- <Facebook>
+    <Sumathi> -- <Scrum Master> -- <Facebook>
 
 # THANKS
 
