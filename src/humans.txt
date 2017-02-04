@@ -8,6 +8,7 @@
     <Sumathi> -- <Scrum Master> -- <Facebook>
     <Prerna> -- <Coder> -- <Facebook>
     <Ankita> -- <DBA> -- <Facebook>
+    <Rukshad> -- <Tester> -- <Facebook>
 
 # THANKS
 
