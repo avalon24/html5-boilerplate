@@ -6,10 +6,10 @@
     <name> -- <role> -- <twitter>
     <Ankan> -- <Product owner> -- <Indoor Nav>
     <Sumathi> -- <Scrum Master> -- <Indoor Nav>
-    <Prerna> -- <Coder> -- <Indoor Nav>
-    <Ankita> -- <DBA> -- <Indoor Nav>
-    <Rukshad> -- <Tester> -- <Indoor Nav>
-    <Sushobhan> -- <Ops> -- <Indoor Nav>
+    <Prerna> -- <Tester> -- <Indoor Nav>
+    <Ankita> -- <Ops> -- <Indoor Nav>
+    <Rukshad> -- <DBA> -- <Indoor Nav>
+    <Sushobhan> -- <Coder> -- <Indoor Nav>
 
 # THANKS
 
