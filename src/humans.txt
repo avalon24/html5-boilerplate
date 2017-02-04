@@ -9,6 +9,7 @@
     <Prerna> -- <Coder> -- <Facebook>
     <Ankita> -- <DBA> -- <Facebook>
     <Rukshad> -- <Tester> -- <Facebook>
+    <Sushobhan> -- <Ops> -- <Facebook>
 
 # THANKS
 
