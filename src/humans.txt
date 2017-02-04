@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name>      -- <role>          -- <twitter>
+    <name>      -- <role>          -- <project name>
+    
     <Ankan>     -- <Product owner> -- <Indoor Nav>
     <Sumathi>   -- <Scrum Master>  -- <Indoor Nav>
     <Prerna>    -- <Tester>        -- <Indoor Nav>
