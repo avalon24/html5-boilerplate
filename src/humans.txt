@@ -7,6 +7,7 @@
     <Ankan> -- <Product owner> -- <Facebook>
     <Sumathi> -- <Scrum Master> -- <Facebook>
     <Prerna> -- <Coder> -- <Facebook>
+    <Ankita> -- <DBA> -- <Facebook>
 
 # THANKS
 
