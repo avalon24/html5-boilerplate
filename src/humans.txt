@@ -6,6 +6,7 @@
     <name> -- <role> -- <twitter>
     <Ankan> -- <Product owner> -- <Facebook>
     <Sumathi> -- <Scrum Master> -- <Facebook>
+    <Prerna> -- <Coder> -- <Facebook>
 
 # THANKS
 
